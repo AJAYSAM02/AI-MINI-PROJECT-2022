@@ -6,7 +6,7 @@ import collections
 import numpy as np
 from tracker import *
 
-# Initialize Tracker
+# Initializing the Tracker
 tracker = EuclideanDistTracker()
 
 # Initialize the videocapture object
